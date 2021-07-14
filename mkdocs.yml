@@ -18,8 +18,8 @@ nav:
     - Lab 1. Deploy a Node app with Source-to-Image: exercise-01/README.md
     - Lab 2. Logging and monitoring: exercise-02/README.md
     - Lab 3. Metrics and dashboards: exercise-03/README.md
-    - Lab 4. Scaling the application: exercise-04/README.md
-    - Lab 5. Health checks: exercise-05/README.md
+    - Lab 4. Health checks: exercise-05/README.md
+    - Lab 5. Scaling the application: exercise-04/README.md
     - Lab 6. Deploy a Node app with Build Config (CLI): exercise-06/README.md
     - Lab 1b. Deploy a Java app with a Docker Image: exercise-01b/README.md
     - Lab 6b. Deploy a Java app with Build Config (CLI): exercise-06b/README.md

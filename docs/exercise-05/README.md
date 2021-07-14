@@ -29,11 +29,11 @@ Now, next step is to add a readiness probe. Luckly it's on the same page, imedia
 
 ```yaml
     readinessProbe:
-    initialDelaySeconds: 5
-    timeoutSeconds: 2
-    httpGet:
-      path: /info
-      port: 8080
+      initialDelaySeconds: 5
+      timeoutSeconds: 2
+      httpGet:
+        path: /info
+        port: 8080
 ```
 
 This will make sure when a new deployment happens that it won't start until the `/info` path is available.
